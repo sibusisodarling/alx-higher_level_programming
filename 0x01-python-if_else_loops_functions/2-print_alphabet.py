@@ -1,4 +1,3 @@
 #!/usr/bin/python3
-
 for lower_case_letters in range(97, 123):
-    print(f"{chr(lower_case_letters)}", end="")
+    print(f"{chr(lower_case_letters)}", end='')
