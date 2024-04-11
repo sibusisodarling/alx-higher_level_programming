@@ -5,7 +5,6 @@ Only accepts integers and floats else TypeError is raised
 This module will convert float to integer
 """
 
-
 def add_integer(a, b=98):
     """
     add_integer: Check input if correct, cast both into ints and return sum
